@@ -1,0 +1,38 @@
+/* تخصيص تصميم الأزرار */
+.btn {
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+/* تخصيص نموذج التسجيل */
+#registrationForm, #chatForm {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* تخصيص النص في الصفحة */
+h1 {
+    color: #007bff;
+}
+
+h3 {
+    color: #495057;
+}
+
+textarea {
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+/* تخصيص الاستجابة */
+#responseContainer {
+    background-color: #e9ecef;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
